@@ -1,7 +1,7 @@
 [
     {
         "description": "Transformation from NGSI v2 models from 'Normalized response representation' (JSON-LD version partially supported) to 'Simplified representation'",
-        "query": "true",
+        "query": "1=1",
         "cases": {
             "true": "https://botkyrka-it.github.io/eventcore-schemas/template-event-new-place-found.jsonata.js"
         }
