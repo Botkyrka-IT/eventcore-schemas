@@ -1,11 +1,11 @@
 {
     "id": 3108,
-    "address": "STORSKIFTESVÄGEN 112",
+    "address": "Storvägen 12",
     "postalCode": "14560",
-    "city": "NORSBORG",
+    "city": "StadEn",
     "format": "GPS",
-    "longitude": 17.863189,
-    "latitude": 59.236187,
+    "longitude": 15.1,
+    "latitude": 59.2,
     "href": "/installations/3108",
     "meterHistory": [
         {
